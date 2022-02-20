@@ -1,6 +1,6 @@
 # DCC190
 
-Arquivos desenvolvidos na disciplina DCC190 - Solução Numérica de Equações Diferenciais
+Códigos autorais desenvolvidos na disciplina DCC190 - Solução Numérica de Equações Diferenciais
 
 
 
